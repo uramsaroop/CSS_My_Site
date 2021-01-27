@@ -68,7 +68,7 @@ h3 {
 
 
 .bottom-container {
-  background-color: #19456b
+  background-color: #eeeeee
 }
 
 .top-cloud {
@@ -103,4 +103,8 @@ hr {
 .description {
   margin: auto;
   width: 50%;
+}
+
+.contact-me {
+  padding-bottom: 10px;
 }
